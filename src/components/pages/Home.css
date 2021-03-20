@@ -1,0 +1,10 @@
+.body {
+    color: #002f4a;
+    background-color: #f1dbdb;
+    margin-top: -300px;
+}
+
+.body p {
+    text-align: center;
+    padding-top: 20px;
+}

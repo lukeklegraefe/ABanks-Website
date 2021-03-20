@@ -1,0 +1,44 @@
+.loginUI {
+    color: #002f4a;
+    background-color: #f1dbdb;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    
+    left: 57%;
+    top: 120%;
+    margin-left: -25%;
+    position: absolute;
+    margin-top: -25%;
+    border-radius: 20px;
+}
+
+.loginBTN {
+    color: #f1dbdb;;
+    background-color: #002f4a;
+    padding: 8px 20px;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-right: 20px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: var(--primary);
+}
+
+.loginUSR {
+    padding: 20px;
+}
+
+.loginPASS {
+    padding: 20px;  
+}
+
+.confirmation {
+    color: #002f4a;
+    text-align: center;
+    margin-top: -10%;
+}
